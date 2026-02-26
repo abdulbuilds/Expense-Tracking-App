@@ -1,6 +1,6 @@
-# 💰 Expense Tracking App (DSA Assignment)
+# 💰 Expense Tracking App )
 
-This is a C++ console-based Expense Tracking Application developed as part of a Data Structures and Algorithms (DSA) assignment.
+This is a C++ console-based Expense Tracking Application developed as part of a Data Structures and Algorithms.
 
 ## ✅ Features
 
